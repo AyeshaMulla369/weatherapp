@@ -63,6 +63,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
+### Backend
+### Django 
+
+python -m venv venv
+source venv/Scripts/activate
+
+python -m pip install --upgrade pip
+pip install autopep8
+
+pip install django
+pip install djangorestframework
+pip install django-cors-headers
+
+django-admin startproject main .
+python manage.py startapp api 
+
+make chnages in url.py and settings.py
+
+### Migrate File
+python manage.py makemigration
+python manage.py migrate
+
+write codes making changes in the views.py files
+
+run the app 
+python manage.py runserver
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
