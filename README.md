@@ -91,6 +91,9 @@ write codes making changes in the views.py files
 run the app 
 python manage.py runserver
 
+### API 
+openweather app 
+change appid in view.py to your own appid
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
