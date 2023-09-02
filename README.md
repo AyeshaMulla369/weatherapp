@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Screenshot 2023-08-19 081914](https://github.com/AyeshaMulla369/weatherapp/assets/96511827/e33d183c-fd24-41e4-b852-6814749defb8)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
